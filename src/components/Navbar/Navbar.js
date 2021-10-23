@@ -50,7 +50,7 @@ const Navbar = () => {
               </li>
               <li class="nav-item ms-md-5 mt-md-0 mt-3">
                 <a
-                  href="https://drive.google.com/file/d/1AGi4mORhIWsG8OJO04t9cU7u4N85WpRu/view?usp=sharing"
+                  href="https://drive.google.com/file/d/1St-2XnCWDyxLGAEgQohnGgP-9O4Hozsu/view?usp=sharing"
                   target="_blank"
                   class="nav-link me-5 p-2 button-brand text-white"
                 >
