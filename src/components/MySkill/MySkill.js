@@ -21,9 +21,9 @@ const MySkill = () => {
                 <h4>Front End Development</h4>
                  <div className="mt-4 ms-md-3 fs-5">
                  <ul>
-                    <li>HTML/CSS, JavaScript for static sites</li>
-                    <li>React.js, Next.js, Firebase for reactive sites</li>
-                    <li>Material UI, Semantic UI, Bootstrap as CSS <br/> Framework</li>
+                    <li>HTML/CSS, JavaScript, TypeScript for static sites</li>
+                    <li>React.js, Next.js, Redux for reactive sites</li>
+                    <li>Material UI, Tailwind CSS, Bootstrap as CSS Framework</li>
                     <li>Constantly Learning New Technology</li>
                 </ul>
                  </div>

@@ -18,7 +18,7 @@ const MyWorkflow = () => {
                 <br/>
                 <h1 className="text-white">How I <span className="text-primary">Works In a Project</span></h1>
             </div>
-            <div className="row text-white mt-5 g-5 ms-md-3 ms-3 work-details">
+            <div className="row text-white mt-5 g-5 ms-md-2 ms-3 work-details">
                 <div data-aos='fade-down' className="col-md-3">
                     <img className="ms-md-5 mb-3" src={fast} alt=""/>
                     <h4 className="">Get instructions</h4>

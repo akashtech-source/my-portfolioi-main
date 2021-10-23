@@ -4,10 +4,14 @@
   overflow-x: hidden;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.button-brand {
+  background: linear-gradient(45deg, rgb(4, 209, 192), rgb(0, 174, 255));
+  border-radius: 3px;
 }
+.button-brand:hover {
+  background: linear-gradient(45deg, rgb(0, 174, 255), rgb(4, 209, 192), rgb(0, 174, 255));
+}
+
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {

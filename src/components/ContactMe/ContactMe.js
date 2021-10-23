@@ -8,13 +8,14 @@ import {
   import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
   import Aos from "aos";
   import "aos/dist/aos.css";
+  import './ContactMe.css';
 
 const ContactMe = () => {
   useEffect(() => {
     Aos.init({duration: 1000})
   }, [])
   return (
-    <div id="Contact" className="container text-white">
+    <div id="Contact" className="container contact-container text-white">
       <div data-aos='fade-up' className="mt-5 text-center ">
         <h5>CONTACT ME</h5>
         <h2>Want To <span className="text-warning">Work With Me</span></h2>

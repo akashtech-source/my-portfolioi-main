@@ -11,7 +11,7 @@ const AboutMe = () => {
     return (
         <div id="About" style={
             {
-                marginTop: '180px'
+                marginTop: '80px'
             }
         }>
             <div data-aos='zoom-in-up' className=" about-section">
